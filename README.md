@@ -119,8 +119,8 @@ streamlit run apps/streamlit_app.py
 ---
 
 ## 📊 Example Dashboard
-(image.png)
-(image-1.png)
+![Dashboard Screenshot 1](image.png)
+![Dashboard Screenshot 2](image-1.png)
 
 ---
 
